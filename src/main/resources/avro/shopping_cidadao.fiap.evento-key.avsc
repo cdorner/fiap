@@ -1,0 +1,1 @@
+{"type":"record","name":"Key","namespace":"shopping_cidadao.fiap.evento","fields":[{"name":"id","type":"long"}],"connect.name":"shopping_cidadao.fiap.evento.Key"}
